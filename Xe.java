@@ -5,10 +5,7 @@
  */
 package DangKyXeForm;
 
-/**
- *
- * @author HUY HIEN
- */
+
 public class Xe {
     String tenChuXe,loaiXe;
     int  DTxiLanh;
