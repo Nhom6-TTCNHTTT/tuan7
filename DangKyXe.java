@@ -11,10 +11,7 @@ import java.util.Comparator;
 import javax.swing.JOptionPane;
 import javax.swing.table.TableModel;
 
-/**
- *
- * @author HUY HIEN
- */
+
 public class DangKyXe extends javax.swing.JFrame {
 
     ArrayList<Xe> dsXe = new ArrayList<Xe>();
