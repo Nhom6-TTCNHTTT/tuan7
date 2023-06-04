@@ -8,10 +8,7 @@ package DangKyXeForm;
 import java.util.ArrayList;
 import javax.swing.table.AbstractTableModel;
 
-/**
- *
- * @author HUY HIEN
- */
+
 public class TableXe extends AbstractTableModel{
     
     private String Name[] = {"chu xe","loai xe","dung tich" ,"tri gia","thue phai nop"};
